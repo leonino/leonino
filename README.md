@@ -1,6 +1,5 @@
 ## Olá! Sou o Marcos
 <br>
-
 <div>
   <a href="https://github.com/leonino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +15,6 @@
   <hr>
   <img align="right" alt="Marcos Ribeiro" height="120"   src="https://media-exp1.licdn.com/dms/image/C4E03AQHLKfmlaTz3bA/profile-displayphoto-shrink_200_200/0/1638293572786?e=1649289600&v=beta&t=26MgnaH9jVv-vENgcHHePtMMFApDJgu4AbLgNHysqbU">
 </div>
-
 <div>
   <a href="https://www.instagram.com/marcos.ribeiro204/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/leoninopa/" target="_blank"><img src="
@@ -57,5 +55,4 @@ class Developer{
     };
   }
 }
-
-
+```
