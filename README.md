@@ -26,6 +26,11 @@ https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&l
 
 <img align="right" alt="Marcos Ribeiro" height="120"   src="https://media-exp1.licdn.com/dms/image/C4E03AQHLKfmlaTz3bA/profile-displayphoto-shrink_200_200/0/1638293572786?e=1649289600&v=beta&t=26MgnaH9jVv-vENgcHHePtMMFApDJgu4AbLgNHysqbU">
 
+<svg align="right" width="150" height="150" viewbox="0 0 40 40">
+	<polygon class="triangle" fill="none" stroke="#fff" stroke-width="1" points="20,1 40,30, 1,30"/>
+	<text class="loading" x="08" y="37" fill="#fff">Loading...</text>
+</svg>
+
 ```dart
 @CEO('Solutil Sistemas')
 class Developer{
