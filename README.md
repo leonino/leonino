@@ -14,13 +14,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Marcos Ribeiro" height="120"   src="https://media-exp1.licdn.com/dms/image/C4E03AQHLKfmlaTz3bA/profile-displayphoto-shrink_200_200/0/1638293572786?e=1649289600&v=beta&t=26MgnaH9jVv-vENgcHHePtMMFApDJgu4AbLgNHysqbU">
 </div>
-<span style='height: 10px'></span>
-<div>
+<br>
+<div style="margin: 0; padding: 0;">
   <a href="https://www.instagram.com/marcos.ribeiro204/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/leoninopa/" target="_blank"><img src="
 https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:slproger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcosribeiro33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcosribeiro33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
 </div>
 
 ![Snake](https://github.com/leonino/snack-svg-master/blob/master/github-contribution-grid-snakebox.svg)
