@@ -8,7 +8,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: flex;">
-		<img style="float: left; margin: 10px;" alt="Leo-Java" height="60" width="60"
+		<img style="float: left; margin: 10px;  max-width: 100%; height: auto;" alt="Leo-Java"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
