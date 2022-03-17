@@ -9,8 +9,8 @@
 </div>
 
 <div style="height: fit-content; display: flex; justify-content: space-around; align-items: space-around;">
-		<img align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-		<img align="center" alt="Leo-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+		<img class="icon-img" align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+		<img class="icon-img" align="center" alt="Leo-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 		<img align="center" alt="Leo-Dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 		<img align="center" alt="Leo-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 		<img align="center" alt="Leo-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,3 +35,11 @@ https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&l
 @CEO('Solutil Sistemas')
 
 ```
+<style>
+	.icon-img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+	</style>
