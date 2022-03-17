@@ -1,7 +1,8 @@
 
 <div style="height: 100px; display: flex; justify-content: space-between; align-items: center;">
 	<h1>Olá! Sou o Marcos</h1>
-[![Generate Snake](https://github.com/leonino/leonino/actions/workflows/generate_snake.yml/badge.svg)](https://github.com/leonino/leonino/actions/workflows/generate_snake.yml)</div>
+	<img align="center" alt="Leo-HTML" height="30" width="60" src="https://github.com/leonino/leonino/actions/workflows/generate_snake.yml/badge.svg"/>
+	<img align="center" alt="Leo-HTML" height="30" width="60" src="https://github.com/leonino/leonino/actions/workflows/generate_snake.yml"/>
 <div>
 	<a href="https://github.com/leonino"></a>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
