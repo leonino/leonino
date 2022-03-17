@@ -8,7 +8,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="height: 200px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div style="height: 200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   <div style="padding: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	</div>
