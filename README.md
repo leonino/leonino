@@ -8,21 +8,31 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: flex;">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+<section>
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+		</section>
+		<section>
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+		</section>
+		<section>
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+</section>
+<section>
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+</section>
+<section>
+	<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+</section>
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
+		<img alt="Leo-Java" height="60" widht="60" padding="20" margin="20"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <hr>
 	</div>
