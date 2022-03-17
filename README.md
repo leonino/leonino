@@ -1,3 +1,4 @@
+[![Generate Snake](https://github.com/leonino/leonino/actions/workflows/generate_snake.yml/badge.svg)](https://github.com/leonino/leonino/actions/workflows/generate_snake.yml)
 ## Olá! Sou o Marcos
 
 <div>
