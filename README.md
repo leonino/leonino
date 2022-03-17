@@ -7,9 +7,8 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div style="height: 100px; display: flex; justify-content: space-around; align-items: space-around;">
-		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+<div style="display: flex;">
+		<img style="float: left; margin: 10px;" alt="Leo-Java" height="60" width="60"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -26,7 +25,9 @@
 		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <hr>
-</div>
+	</div>
+<!--<div style="height: 100px; display: flex; justify-content: space-around; align-items: space-around;"> -->
+<!--</div>-->
 
 <div>
   <a href="https://www.instagram.com/marcos.ribeiro204/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
