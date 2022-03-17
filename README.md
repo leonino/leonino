@@ -8,7 +8,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="height: 100px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div style="height: 100px; display: flex; justify-content: space-between; align-items: center;">
   <div style="padding: 10px; felx: 1"><img align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></div>
   <div style="padding: 10px; felx: 1"><img align="center" alt="Leo-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></div>
   <div style="padding: 10px; felx: 1"><img align="center" alt="Leo-Dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></div>
