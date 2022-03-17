@@ -9,15 +9,22 @@
 </div>
 
 <div style="height: 100px; display: flex; justify-content: space-around; align-items: space-around;">
-		<img style="border: 1px solid #ddd; border-radius: 50px; padding: 10px; float: left; margin-right: 10px;"
-		align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-		<img class="icon-img" align="center" alt="Leo-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-		<img align="center" alt="Leo-Dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-		<img align="center" alt="Leo-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-		<img align="center" alt="Leo-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-		<img align="center" alt="Leo-CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-		<img align="center" alt="Leo-MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-		<img align="center" alt="Leo-PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+		<img style="float: left; margin-right: 10px;" alt="Leo-Java" height="60" width="60"
+		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <hr>
 </div>
 
