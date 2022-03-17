@@ -8,31 +8,15 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="height: 200px; display: flex; justify-content: space-between; align-items: center;">
-  <span style="padding: 10px; height: 80px; width: 80px;">
+<div style="height: 200px; display: flex; justify-content: space-even; align-items: center;">
 		<img align="center" alt="Leo-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	</span>
-  <span style="padding: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-	</span>
-  <span style="margin: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-Dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-	</span>
-  <span style="margin: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	</span>
-  <span style="margin: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	</span>
-  <span style="margin: 10px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	</span>
-  <span style="margin: 30px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-	</span>
-  <span style="margin: 30px; height: 80px; width: 80px;">
 		<img align="center" alt="Leo-PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-	</span>
   <hr>
 </div>
 
