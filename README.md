@@ -8,21 +8,21 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: flex;">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-		<img style="float: left; margin: 10px; padding: 10px; " alt="Leo-Java"
+		<img alt="Leo-Java" height="48" widht="60" padding="10" margin="10"
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <hr>
 	</div>
