@@ -26,8 +26,6 @@
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <hr>
 	</div>
-<!--<div style="height: 100px; display: flex; justify-content: space-around; align-items: space-around;"> -->
-<!--</div>-->
 
 <div>
   <a href="https://www.instagram.com/marcos.ribeiro204/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
